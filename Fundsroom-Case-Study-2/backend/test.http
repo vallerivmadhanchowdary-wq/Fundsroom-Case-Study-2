@@ -1,0 +1,8 @@
+### 1. Test Server
+GET http://localhost:5000/
+
+###
+
+### 2. Get Customers
+GET http://localhost:5000/api/customers
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImVtYWlsIjoiYWRtaW5AZnVuZHNyb29tLmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc4OTYzMTE3MSwiZXhwIjoxNzg5NzE3NTcxfQ.u_Tb7RRjU5_ySd4tLLwIa04Vep7VVH8CA8kDHok4ed4
